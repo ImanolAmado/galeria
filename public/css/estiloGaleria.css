@@ -1,0 +1,39 @@
+
+body {
+    background-color: burlywood; 
+}
+
+.cabecera {   
+    height: 200px;
+    display: flex;
+    align-items: center;    
+    justify-content: center;    
+    background-color:bisque;
+}
+
+.cabecera h1 {
+    margin-left: 2%;
+    font-family:'Courier New', Courier, monospace; 
+    color:chocolate;
+}
+
+.contenido {
+    margin-top: 3%;
+    display: flex;    
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: center;   
+}
+
+.cuadro {
+    height: 300px;
+    padding: 10px;
+}
+
+.mifooter {
+    margin-top: 5%;    
+    height: 100px;
+    text-align: center;
+}
