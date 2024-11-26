@@ -16,10 +16,4 @@
 </a>
 @endforeach
 
-@endsection
-  
-
-
-
-
-    
+@endsection   
